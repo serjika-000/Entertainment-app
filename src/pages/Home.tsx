@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+//home page
 import Trending from '../components/Trending';
 import Content from '../components/Content';
 import { Movie } from '../types';

@@ -1,6 +1,6 @@
 import Content from '../components/Content';
 import { Movie } from '../types';
-
+//movie page
 interface MoviesProps {
   movies: Movie[];
   onBookmarkClick: (id: number) => void;
